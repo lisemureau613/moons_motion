@@ -9,7 +9,7 @@ Moons in motion is open source and can be adpated to a variety of problems and i
 
 ## Getting Started
 
-Open the notebook in a Google Collab environment running on GPU or on a local machine with GPU. The training with our data and parameters takes half an hour. The current code is designed for the detection and cross-identification of three moons, it can be adapted for other numbers of cross-identification.
+Open the notebook in a Google Collab environment running on GPU or on a local machine with GPU. Upload the uranus_cropped folder in a Google Drive. The training with our data and parameters takes half an hour. The current code is designed for the detection and cross-identification of three moons, it can be adapted for other numbers of cross-identification.
 
 ## Example
 A VLT/NACO image with the prediction of the photocentre's coordinates given by the model after training illustrated by the red crosses, and the detected photocentres by DAOPHOT algorithm associated in blue. The code produces a text file with the coordinates of the moons.
