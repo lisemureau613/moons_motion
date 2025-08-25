@@ -14,7 +14,8 @@ Open the notebook in a Google Collab environment running on GPU or on a local ma
 ## Example
 A VLT/NACO image with the prediction of the photocentre's coordinates given by the model after training illustrated by the red crosses, and the detected photocentres by DAOPHOT algorithm associated in blue. The code produces a text file with the coordinates of the moons.
 
-<img width="546" height="1087" alt="prediction" src="https://github.com/user-attachments/assets/79793642-d7d4-4f4f-a087-f8c58edd612c" />
+<img width="536" height="1072" alt="prediction" src="https://github.com/user-attachments/assets/31b91443-b9e4-4d96-ac6b-917be5397f14" />
+
 
 
 ## Citations
